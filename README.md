@@ -1,6 +1,6 @@
 # cDDIM (Conditional Denoising Diffusion Implicit Model for wireless channel matrix)
 
-This repository contains the implementation for the paper **Generating High Dimensional User-Specific Wireless Channels using Diffusion Models** ([https://www.arxiv.org/abs/2409.03924](https://www.arxiv.org/abs/2409.03924)).
+This repository contains the implementation for: "Generating High Dimensional User-Specific Wireless Channels Using Diffusion Models," IEEE Transactions on Wireless Communications, vol. 25, pp. 2907–2921, Aug. 26, 2025, doi: 10.1109/TWC.2025.3600286. (Preprint: https://arxiv.org/abs/2409.03924)
 
 ![proposed_approach](./proposed_approach.png)
 
@@ -62,10 +62,13 @@ Other ideas are referenced in the [paper](https://www.arxiv.org/abs/2409.03924).
 
 If you find this repository helpful, please cite our work!:
 ```bash
-@article{lee2024generating,
-  title={Generating High Dimensional User-Specific Wireless Channels using Diffusion Models},
-  author={Lee, Taekyun and Park, Juseong and Kim, Hyeji and Andrews, Jeffrey G},
-  journal={arXiv preprint arXiv:2409.03924},
-  year={2024}
+@ARTICLE{lee2025generating,
+  author  = {Lee, Taekyun and Park, Juseong and Kim, Hyeji and Andrews, Jeffrey G.},
+  title   = {Generating High Dimensional User-Specific Wireless Channels Using Diffusion Models},
+  journal = {IEEE Transactions on Wireless Communications},
+  year    = {2025},
+  volume  = {25},
+  pages   = {2907--2921},
+  doi     = {10.1109/TWC.2025.3600286}
 }
 ```
